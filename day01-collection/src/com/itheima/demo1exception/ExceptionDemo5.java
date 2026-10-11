@@ -1,9 +1,5 @@
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.InputStream;
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.Date;
+package com.itheima.demo1exception;
+
 import java.util.Scanner;
 
 public class ExceptionDemo5 {

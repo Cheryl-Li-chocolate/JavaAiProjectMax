@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/day01-collection/day01-collection.iml" filepath="$PROJECT_DIR$/day01-collection/day01-collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo2genericity/demo2genericity.iml" filepath="$PROJECT_DIR$/demo2genericity/demo2genericity.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaseprojectmax.iml" filepath="$PROJECT_DIR$/javaseprojectmax.iml" />
     </modules>
   </component>

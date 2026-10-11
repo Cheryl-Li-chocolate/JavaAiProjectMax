@@ -1,4 +1,4 @@
-
+package com.itheima.demo1exception;
 
 public class ItheimaAgeIllegalRuntimeException extends RuntimeException {
     public ItheimaAgeIllegalRuntimeException() {

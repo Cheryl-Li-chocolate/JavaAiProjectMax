@@ -1,3 +1,5 @@
+package com.itheima.demo1exception;
+
 public class ExceptionDemo2 {
     public static void main(String[] args) {
         //认识异常的体系，搞清楚异常的基本作用
