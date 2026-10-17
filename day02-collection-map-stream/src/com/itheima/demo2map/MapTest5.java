@@ -1,4 +1,4 @@
-package com.itheima.demo2Map;
+package com.itheima.demo2map;
 
 import java.util.*;
 
