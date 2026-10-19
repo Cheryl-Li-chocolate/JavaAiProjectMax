@@ -8,6 +8,7 @@ public class BufferedReaderDemo1 {
     //目标：文件字符输入流
     public static void main(String[] args) {
         try (Reader fr = new FileReader("day03-file-io/src/com/ithima/demo8fileWriter/0-out.txt");
+
              BufferedReader br = new BufferedReader(fr);
         ) {
 //            int len = 0;
