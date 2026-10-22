@@ -16,6 +16,7 @@ public class Account {
     private final Lock lk=new ReentrantLock();
     public void drawMoney(double money) {
         lk.lock();
+        try {
             if (this.money >= money) {
                 System.out.println(Thread.currentThread().getName() + "取钱" + money);
                 this.money -= money;
@@ -23,6 +24,9 @@ public class Account {
             } else {
                 System.out.println(Thread.currentThread().getName() + "余额不足");
             }
-        lk.unlock();
+
+        } finally {
+            lk.unlock();
         }
+    }
 }
