@@ -1,0 +1,8 @@
+======Dog======
+name:Buddy
+age:3
+======Student======
+name:Alice
+age:20
+sex:Female
+address:123 Main St
