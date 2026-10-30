@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/day05-net/day05-net.iml" filepath="$PROJECT_DIR$/day05-net/day05-net.iml" />
       <module fileurl="file://$PROJECT_DIR$/day06-junit-reflect-annotation-proxy/day06-junit-reflect-annotation-proxy.iml" filepath="$PROJECT_DIR$/day06-junit-reflect-annotation-proxy/day06-junit-reflect-annotation-proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaseprojectmax.iml" filepath="$PROJECT_DIR$/javaseprojectmax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-test-cheryl/my-test-cheryl.iml" filepath="$PROJECT_DIR$/my-test-cheryl/my-test-cheryl.iml" />
     </modules>
   </component>
 </project>
